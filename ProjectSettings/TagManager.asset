@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - projectile
+  - FxTemporaire
+  - LeftHand
+  - RightHand
+  - LLLeg
+  - RLLeg
+  - LULeg
+  - RULeg
+  - Drawer
+  - Pants
+  - Head
+  - AlarmClock
+  - Soap
+  - Shampoo
+  - ShowerHandle
+  - Toothbrush
+  - CuttingBoard
+  - Ingredient1
+  - Ingredient2
+  - Ingredient3
+  - Ingredient4
+  - Food
+  - SpawnLoc
+  - LeftFinger
+  - RightFinger
+  - PhoneNo0
+  - PhoneNo1
+  - PhoneNo2
+  - PhoneNo3
+  - PhoneNo4
+  - PhoneNo5
+  - PhoneNo6
+  - PhoneNo7
+  - PhoneNo8
+  - PhoneNo9
+  - PillBottleLevo
+  - PillBottleLisi
+  - PillbottleMetf
+  - PillBottleWarf
+  - PillBottleMetf
+  - Starter
+  - normalMode
+  - hardMode
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Menu
+  - Hands
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Text
+    uniqueID: 661884347
+    locked: 0
